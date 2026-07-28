@@ -1,0 +1,1649 @@
+{
+  "source": "https://www.laurenpuckettportfolio.com",
+  "pages": [
+    {
+      "url": "https://www.laurenpuckettportfolio.com/",
+      "file": "index.html"
+    },
+    {
+      "url": "https://www.laurenpuckettportfolio.com/about",
+      "file": "about/index.html"
+    },
+    {
+      "url": "https://www.laurenpuckettportfolio.com/bv-case-study",
+      "file": "bv-case-study/index.html"
+    },
+    {
+      "url": "https://www.laurenpuckettportfolio.com/citrix-case-study",
+      "file": "citrix-case-study/index.html"
+    },
+    {
+      "url": "https://www.laurenpuckettportfolio.com/contact",
+      "file": "contact/index.html"
+    },
+    {
+      "url": "https://www.laurenpuckettportfolio.com/home",
+      "file": "home/index.html"
+    },
+    {
+      "url": "https://www.laurenpuckettportfolio.com/work",
+      "file": "work/index.html"
+    }
+  ],
+  "assets": [
+    {
+      "url": "https://assets.squarespace.com/@sqs/polyfiller/1.6/legacy.js",
+      "file": "assets/assets.squarespace.com/@sqs/polyfiller/1.6/legacy.js",
+      "bytes": "42387"
+    },
+    {
+      "url": "https://assets.squarespace.com/@sqs/polyfiller/1.6/modern.js",
+      "file": "assets/assets.squarespace.com/@sqs/polyfiller/1.6/modern.js",
+      "bytes": "117609"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/scripts-compressed/announcement-bar-af8852d144aea019-min.en-US.js",
+      "file": "assets/assets.squarespace.com/universal/scripts-compressed/announcement-bar-af8852d144aea019-min.en-US.js",
+      "bytes": "122158"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/scripts-compressed/audio-player-1edd64a4cf17c190-min.en-US.js",
+      "file": "assets/assets.squarespace.com/universal/scripts-compressed/audio-player-1edd64a4cf17c190-min.en-US.js",
+      "bytes": "168968"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/scripts-compressed/blog-collection-list-d1cb4d231b7bd2d9-min.en-US.js",
+      "file": "assets/assets.squarespace.com/universal/scripts-compressed/blog-collection-list-d1cb4d231b7bd2d9-min.en-US.js",
+      "bytes": "2190"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/scripts-compressed/calendar-block-renderer-5e2fc68f5d72c514-min.en-US.js",
+      "file": "assets/assets.squarespace.com/universal/scripts-compressed/calendar-block-renderer-5e2fc68f5d72c514-min.en-US.js",
+      "bytes": "88962"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/scripts-compressed/chartjs-helpers-68bb885b45e80b06-min.en-US.js",
+      "file": "assets/assets.squarespace.com/universal/scripts-compressed/chartjs-helpers-68bb885b45e80b06-min.en-US.js",
+      "bytes": "65458"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-82f1b90df6e98ed0-min.en-US.js",
+      "file": "assets/assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-82f1b90df6e98ed0-min.en-US.js",
+      "bytes": "91769"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/scripts-compressed/comments-7f15870dfec9335d-min.en-US.js",
+      "file": "assets/assets.squarespace.com/universal/scripts-compressed/comments-7f15870dfec9335d-min.en-US.js",
+      "bytes": "553119"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/scripts-compressed/common-3f87a2a54ea8f4fa-min.en-US.js",
+      "file": "assets/assets.squarespace.com/universal/scripts-compressed/common-3f87a2a54ea8f4fa-min.en-US.js",
+      "bytes": "1114066"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/scripts-compressed/common-vendors-ef6eb130f2ef2287-min.en-US.js",
+      "file": "assets/assets.squarespace.com/universal/scripts-compressed/common-vendors-ef6eb130f2ef2287-min.en-US.js",
+      "bytes": "747731"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-784b947826b4c445-min.en-US.js",
+      "file": "assets/assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-784b947826b4c445-min.en-US.js",
+      "bytes": "246523"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/scripts-compressed/custom-css-popup-5d00dc8443a6a3a4-min.en-US.js",
+      "file": "assets/assets.squarespace.com/universal/scripts-compressed/custom-css-popup-5d00dc8443a6a3a4-min.en-US.js",
+      "bytes": "1988038"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/scripts-compressed/dialog-2b4af781631f6fad-min.en-US.js",
+      "file": "assets/assets.squarespace.com/universal/scripts-compressed/dialog-2b4af781631f6fad-min.en-US.js",
+      "bytes": "546719"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/scripts-compressed/events-collection-0787b3d0d23c98f1-min.en-US.js",
+      "file": "assets/assets.squarespace.com/universal/scripts-compressed/events-collection-0787b3d0d23c98f1-min.en-US.js",
+      "bytes": "88057"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-a5cfdec1ae227f33-min.en-US.js",
+      "file": "assets/assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-a5cfdec1ae227f33-min.en-US.js",
+      "bytes": "857800"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-ef3997ee8670844f-min.en-US.js",
+      "file": "assets/assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-ef3997ee8670844f-min.en-US.js",
+      "bytes": "50897"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/scripts-compressed/form-rendering-utils-e052838a72f4372d-min.en-US.js",
+      "file": "assets/assets.squarespace.com/universal/scripts-compressed/form-rendering-utils-e052838a72f4372d-min.en-US.js",
+      "bytes": "304354"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/scripts-compressed/forms-e5cec6a39de18b62-min.en-US.js",
+      "file": "assets/assets.squarespace.com/universal/scripts-compressed/forms-e5cec6a39de18b62-min.en-US.js",
+      "bytes": "341226"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/scripts-compressed/gallery-collection-list-9537a843c229ee51-min.en-US.js",
+      "file": "assets/assets.squarespace.com/universal/scripts-compressed/gallery-collection-list-9537a843c229ee51-min.en-US.js",
+      "bytes": "8136"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/scripts-compressed/image-zoom-2bd05a385cc2d38d-min.en-US.js",
+      "file": "assets/assets.squarespace.com/universal/scripts-compressed/image-zoom-2bd05a385cc2d38d-min.en-US.js",
+      "bytes": "4813"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/scripts-compressed/performance-6c0f7df399a6c21b-min.en-US.js",
+      "file": "assets/assets.squarespace.com/universal/scripts-compressed/performance-6c0f7df399a6c21b-min.en-US.js",
+      "bytes": "120390"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/scripts-compressed/pinterest-91826e15bec6b127-min.en-US.js",
+      "file": "assets/assets.squarespace.com/universal/scripts-compressed/pinterest-91826e15bec6b127-min.en-US.js",
+      "bytes": "3291"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/scripts-compressed/popup-overlay-fcb1efbbc6a99ab1-min.en-US.js",
+      "file": "assets/assets.squarespace.com/universal/scripts-compressed/popup-overlay-fcb1efbbc6a99ab1-min.en-US.js",
+      "bytes": "716424"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/scripts-compressed/product-quick-view-a8c98f55ad862b20-min.en-US.js",
+      "file": "assets/assets.squarespace.com/universal/scripts-compressed/product-quick-view-a8c98f55ad862b20-min.en-US.js",
+      "bytes": "667286"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/scripts-compressed/products-collection-item-v2-0bdde0a530e65c35-min.en-US.js",
+      "file": "assets/assets.squarespace.com/universal/scripts-compressed/products-collection-item-v2-0bdde0a530e65c35-min.en-US.js",
+      "bytes": "17229"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/scripts-compressed/products-collection-list-v2-57f05cf8177470d3-min.en-US.js",
+      "file": "assets/assets.squarespace.com/universal/scripts-compressed/products-collection-list-v2-57f05cf8177470d3-min.en-US.js",
+      "bytes": "8727"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/scripts-compressed/search-page-5e67e9fbe7cfa7c9-min.en-US.js",
+      "file": "assets/assets.squarespace.com/universal/scripts-compressed/search-page-5e67e9fbe7cfa7c9-min.en-US.js",
+      "bytes": "189319"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/scripts-compressed/search-preview-0ef076d00060688c-min.en-US.js",
+      "file": "assets/assets.squarespace.com/universal/scripts-compressed/search-preview-0ef076d00060688c-min.en-US.js",
+      "bytes": "1637"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/scripts-compressed/simple-liking-abe35829ec344b9b-min.en-US.js",
+      "file": "assets/assets.squarespace.com/universal/scripts-compressed/simple-liking-abe35829ec344b9b-min.en-US.js",
+      "bytes": "4892"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/scripts-compressed/social-buttons-d7611ec542beeb0d-min.en-US.js",
+      "file": "assets/assets.squarespace.com/universal/scripts-compressed/social-buttons-d7611ec542beeb0d-min.en-US.js",
+      "bytes": "16201"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/scripts-compressed/tourdates-14c80ed1268bd360-min.en-US.js",
+      "file": "assets/assets.squarespace.com/universal/scripts-compressed/tourdates-14c80ed1268bd360-min.en-US.js",
+      "bytes": "157525"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/scripts-compressed/user-account-core-3f21e075457db326-min.en-US.js",
+      "file": "assets/assets.squarespace.com/universal/scripts-compressed/user-account-core-3f21e075457db326-min.en-US.js",
+      "bytes": "126319"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/scripts-compressed/visitor-site-error-reporter-bff7e78698fe42cc-min.en-US.js",
+      "file": "assets/assets.squarespace.com/universal/scripts-compressed/visitor-site-error-reporter-bff7e78698fe42cc-min.en-US.js",
+      "bytes": "3682"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/scripts-compressed/website-overlays-manager-5494290298565b62-min.en-US.js",
+      "file": "assets/assets.squarespace.com/universal/scripts-compressed/website-overlays-manager-5494290298565b62-min.en-US.js",
+      "bytes": "197363"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/styles-compressed/audio-player-b05f5197a871c566-min.en-US.css",
+      "file": "assets/assets.squarespace.com/universal/styles-compressed/audio-player-b05f5197a871c566-min.en-US.css",
+      "bytes": "9209"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/styles-compressed/blog-collection-list-b4046463b72f34e2-min.en-US.css",
+      "file": "assets/assets.squarespace.com/universal/styles-compressed/blog-collection-list-b4046463b72f34e2-min.en-US.css",
+      "bytes": "0"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/styles-compressed/calendar-block-renderer-c3fef2a497c8e56b-min.en-US.css",
+      "file": "assets/assets.squarespace.com/universal/styles-compressed/calendar-block-renderer-c3fef2a497c8e56b-min.en-US.css",
+      "bytes": "18224"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/styles-compressed/chartjs-helpers-96b256171ee039c1-min.en-US.css",
+      "file": "assets/assets.squarespace.com/universal/styles-compressed/chartjs-helpers-96b256171ee039c1-min.en-US.css",
+      "bytes": "1814"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/styles-compressed/comments-fff333d4c89ebeea-min.en-US.css",
+      "file": "assets/assets.squarespace.com/universal/styles-compressed/comments-fff333d4c89ebeea-min.en-US.css",
+      "bytes": "211635"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/styles-compressed/custom-css-popup-bcad0a168a2d18df-min.en-US.css",
+      "file": "assets/assets.squarespace.com/universal/styles-compressed/custom-css-popup-bcad0a168a2d18df-min.en-US.css",
+      "bytes": "193305"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/styles-compressed/dialog-86aacd645d83874c-min.en-US.css",
+      "file": "assets/assets.squarespace.com/universal/styles-compressed/dialog-86aacd645d83874c-min.en-US.css",
+      "bytes": "169137"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/styles-compressed/events-collection-c3fef2a497c8e56b-min.en-US.css",
+      "file": "assets/assets.squarespace.com/universal/styles-compressed/events-collection-c3fef2a497c8e56b-min.en-US.css",
+      "bytes": "18224"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/styles-compressed/forms-0afd3c6ac30bbab1-min.en-US.css",
+      "file": "assets/assets.squarespace.com/universal/styles-compressed/forms-0afd3c6ac30bbab1-min.en-US.css",
+      "bytes": "7259"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/styles-compressed/gallery-collection-list-b4046463b72f34e2-min.en-US.css",
+      "file": "assets/assets.squarespace.com/universal/styles-compressed/gallery-collection-list-b4046463b72f34e2-min.en-US.css",
+      "bytes": "0"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/styles-compressed/image-zoom-b4046463b72f34e2-min.en-US.css",
+      "file": "assets/assets.squarespace.com/universal/styles-compressed/image-zoom-b4046463b72f34e2-min.en-US.css",
+      "bytes": "0"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/styles-compressed/pinterest-b4046463b72f34e2-min.en-US.css",
+      "file": "assets/assets.squarespace.com/universal/styles-compressed/pinterest-b4046463b72f34e2-min.en-US.css",
+      "bytes": "0"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/styles-compressed/popup-overlay-b742b752f5880972-min.en-US.css",
+      "file": "assets/assets.squarespace.com/universal/styles-compressed/popup-overlay-b742b752f5880972-min.en-US.css",
+      "bytes": "8418"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/styles-compressed/product-quick-view-0afd3c6ac30bbab1-min.en-US.css",
+      "file": "assets/assets.squarespace.com/universal/styles-compressed/product-quick-view-0afd3c6ac30bbab1-min.en-US.css",
+      "bytes": "7259"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/styles-compressed/products-collection-item-v2-b4046463b72f34e2-min.en-US.css",
+      "file": "assets/assets.squarespace.com/universal/styles-compressed/products-collection-item-v2-b4046463b72f34e2-min.en-US.css",
+      "bytes": "0"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/styles-compressed/products-collection-list-v2-b4046463b72f34e2-min.en-US.css",
+      "file": "assets/assets.squarespace.com/universal/styles-compressed/products-collection-list-v2-b4046463b72f34e2-min.en-US.css",
+      "bytes": "0"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/styles-compressed/search-page-90a67fc09b9b32c6-min.en-US.css",
+      "file": "assets/assets.squarespace.com/universal/styles-compressed/search-page-90a67fc09b9b32c6-min.en-US.css",
+      "bytes": "3354"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/styles-compressed/simple-liking-701bf8bbc05ec6aa-min.en-US.css",
+      "file": "assets/assets.squarespace.com/universal/styles-compressed/simple-liking-701bf8bbc05ec6aa-min.en-US.css",
+      "bytes": "1056"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/styles-compressed/social-buttons-95032e5fa98e47a5-min.en-US.css",
+      "file": "assets/assets.squarespace.com/universal/styles-compressed/social-buttons-95032e5fa98e47a5-min.en-US.css",
+      "bytes": "2287"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/styles-compressed/tourdates-b4046463b72f34e2-min.en-US.css",
+      "file": "assets/assets.squarespace.com/universal/styles-compressed/tourdates-b4046463b72f34e2-min.en-US.css",
+      "bytes": "0"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/styles-compressed/user-account-core-2cede17edb99327e-min.en-US.css",
+      "file": "assets/assets.squarespace.com/universal/styles-compressed/user-account-core-2cede17edb99327e-min.en-US.css",
+      "bytes": "2301"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/styles-compressed/website-overlays-manager-07ea5a4e004e6710-min.en-US.css",
+      "file": "assets/assets.squarespace.com/universal/styles-compressed/website-overlays-manager-07ea5a4e004e6710-min.en-US.css",
+      "bytes": "11744"
+    },
+    {
+      "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.horizontalrule/069b246f-1b8f-4da2-ba87-52085a6d31a2_164/website.components.horizontalrule.styles.css",
+      "file": "assets/definitions.sqspcdn.com/website-component-definition/static-assets/website.components.horizontalrule/069b246f-1b8f-4da2-ba87-52085a6d31a2_164/website.components.horizontalrule.styles.css",
+      "bytes": "108"
+    },
+    {
+      "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.horizontalrule/069b246f-1b8f-4da2-ba87-52085a6d31a2_164/website.components.horizontalrule.visitor.js",
+      "file": "assets/definitions.sqspcdn.com/website-component-definition/static-assets/website.components.horizontalrule/069b246f-1b8f-4da2-ba87-52085a6d31a2_164/website.components.horizontalrule.visitor.js",
+      "bytes": "12636"
+    },
+    {
+      "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.html/5404b2ce-879f-4573-8f48-3e8ed16cfef9_797/website.components.html.styles.css",
+      "file": "assets/definitions.sqspcdn.com/website-component-definition/static-assets/website.components.html/5404b2ce-879f-4573-8f48-3e8ed16cfef9_797/website.components.html.styles.css",
+      "bytes": "118"
+    },
+    {
+      "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.html/5404b2ce-879f-4573-8f48-3e8ed16cfef9_797/website.components.html.visitor.js",
+      "file": "assets/definitions.sqspcdn.com/website-component-definition/static-assets/website.components.html/5404b2ce-879f-4573-8f48-3e8ed16cfef9_797/website.components.html.visitor.js",
+      "bytes": "12559"
+    },
+    {
+      "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/3339cff2-a853-421d-9cbb-751b31810628_784/2513.js",
+      "file": "assets/definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/3339cff2-a853-421d-9cbb-751b31810628_784/2513.js",
+      "bytes": "33083"
+    },
+    {
+      "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/3339cff2-a853-421d-9cbb-751b31810628_784/6644.js",
+      "file": "assets/definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/3339cff2-a853-421d-9cbb-751b31810628_784/6644.js",
+      "bytes": "37899"
+    },
+    {
+      "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/3339cff2-a853-421d-9cbb-751b31810628_784/8018.js",
+      "file": "assets/definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/3339cff2-a853-421d-9cbb-751b31810628_784/8018.js",
+      "bytes": "12974"
+    },
+    {
+      "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/3339cff2-a853-421d-9cbb-751b31810628_784/8458.js",
+      "file": "assets/definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/3339cff2-a853-421d-9cbb-751b31810628_784/8458.js",
+      "bytes": "21745"
+    },
+    {
+      "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/3339cff2-a853-421d-9cbb-751b31810628_784/9882.js",
+      "file": "assets/definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/3339cff2-a853-421d-9cbb-751b31810628_784/9882.js",
+      "bytes": "10291"
+    },
+    {
+      "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/3339cff2-a853-421d-9cbb-751b31810628_784/image-effect-film-grain.js",
+      "file": "assets/definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/3339cff2-a853-421d-9cbb-751b31810628_784/image-effect-film-grain.js",
+      "bytes": "8475"
+    },
+    {
+      "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/3339cff2-a853-421d-9cbb-751b31810628_784/image-effect-liquid.js",
+      "file": "assets/definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/3339cff2-a853-421d-9cbb-751b31810628_784/image-effect-liquid.js",
+      "bytes": "8949"
+    },
+    {
+      "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/3339cff2-a853-421d-9cbb-751b31810628_784/image-effect-parallax.js",
+      "file": "assets/definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/3339cff2-a853-421d-9cbb-751b31810628_784/image-effect-parallax.js",
+      "bytes": "6266"
+    },
+    {
+      "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/3339cff2-a853-421d-9cbb-751b31810628_784/image-effect-refracted-circles.js",
+      "file": "assets/definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/3339cff2-a853-421d-9cbb-751b31810628_784/image-effect-refracted-circles.js",
+      "bytes": "3052"
+    },
+    {
+      "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/3339cff2-a853-421d-9cbb-751b31810628_784/image-effect-refracted-lines.js",
+      "file": "assets/definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/3339cff2-a853-421d-9cbb-751b31810628_784/image-effect-refracted-lines.js",
+      "bytes": "12214"
+    },
+    {
+      "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/3339cff2-a853-421d-9cbb-751b31810628_784/website.components.imageFluid.shared.constants.js",
+      "file": "assets/definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/3339cff2-a853-421d-9cbb-751b31810628_784/website.components.imageFluid.shared.constants.js",
+      "bytes": "945"
+    },
+    {
+      "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/3339cff2-a853-421d-9cbb-751b31810628_784/website.components.imageFluid.styles.css",
+      "file": "assets/definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/3339cff2-a853-421d-9cbb-751b31810628_784/website.components.imageFluid.styles.css",
+      "bytes": "3034"
+    },
+    {
+      "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/3339cff2-a853-421d-9cbb-751b31810628_784/website.components.imageFluid.visitor.js",
+      "file": "assets/definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/3339cff2-a853-421d-9cbb-751b31810628_784/website.components.imageFluid.visitor.js",
+      "bytes": "29975"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/",
+      "file": "assets/images.squarespace-cdn.com/index.bin",
+      "bytes": "8"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/0167396d-f67b-4967-afc4-3dc0869b3100/IMG_8781.jpg",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/0167396d-f67b-4967-afc4-3dc0869b3100/IMG_8781.jpg",
+      "bytes": "147958"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/0167396d-f67b-4967-afc4-3dc0869b3100/IMG_8781.jpg?format=1000w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/0167396d-f67b-4967-afc4-3dc0869b3100/IMG_8781--qba03c59ce59d.jpg",
+      "bytes": "113216"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/0167396d-f67b-4967-afc4-3dc0869b3100/IMG_8781.jpg?format=100w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/0167396d-f67b-4967-afc4-3dc0869b3100/IMG_8781--q2f39b9f0ad5f.jpg",
+      "bytes": "4328"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/0167396d-f67b-4967-afc4-3dc0869b3100/IMG_8781.jpg?format=1500w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/0167396d-f67b-4967-afc4-3dc0869b3100/IMG_8781--q2203e1773de7.jpg",
+      "bytes": "147958"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/0167396d-f67b-4967-afc4-3dc0869b3100/IMG_8781.jpg?format=2500w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/0167396d-f67b-4967-afc4-3dc0869b3100/IMG_8781--qc641dc906bd5.jpg",
+      "bytes": "147958"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/0167396d-f67b-4967-afc4-3dc0869b3100/IMG_8781.jpg?format=300w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/0167396d-f67b-4967-afc4-3dc0869b3100/IMG_8781--qae31c69e37e0.jpg",
+      "bytes": "20466"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/0167396d-f67b-4967-afc4-3dc0869b3100/IMG_8781.jpg?format=500w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/0167396d-f67b-4967-afc4-3dc0869b3100/IMG_8781--q5dc32fbc134e.jpg",
+      "bytes": "45386"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/0167396d-f67b-4967-afc4-3dc0869b3100/IMG_8781.jpg?format=750w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/0167396d-f67b-4967-afc4-3dc0869b3100/IMG_8781--q799c3c57e0ea.jpg",
+      "bytes": "79204"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/102c2b89-4d3d-46f5-b9f0-a7afa9aadb58/BV-ProductBrief.png",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/102c2b89-4d3d-46f5-b9f0-a7afa9aadb58/BV-ProductBrief.png",
+      "bytes": "54666"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/102c2b89-4d3d-46f5-b9f0-a7afa9aadb58/BV-ProductBrief.png?format=1000w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/102c2b89-4d3d-46f5-b9f0-a7afa9aadb58/BV-ProductBrief--qba03c59ce59d.png",
+      "bytes": "74694"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/102c2b89-4d3d-46f5-b9f0-a7afa9aadb58/BV-ProductBrief.png?format=100w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/102c2b89-4d3d-46f5-b9f0-a7afa9aadb58/BV-ProductBrief--q2f39b9f0ad5f.png",
+      "bytes": "7082"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/102c2b89-4d3d-46f5-b9f0-a7afa9aadb58/BV-ProductBrief.png?format=1500w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/102c2b89-4d3d-46f5-b9f0-a7afa9aadb58/BV-ProductBrief--q2203e1773de7.png",
+      "bytes": "124052"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/102c2b89-4d3d-46f5-b9f0-a7afa9aadb58/BV-ProductBrief.png?format=2500w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/102c2b89-4d3d-46f5-b9f0-a7afa9aadb58/BV-ProductBrief--qc641dc906bd5.png",
+      "bytes": "54666"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/102c2b89-4d3d-46f5-b9f0-a7afa9aadb58/BV-ProductBrief.png?format=300w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/102c2b89-4d3d-46f5-b9f0-a7afa9aadb58/BV-ProductBrief--qae31c69e37e0.png",
+      "bytes": "17404"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/102c2b89-4d3d-46f5-b9f0-a7afa9aadb58/BV-ProductBrief.png?format=500w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/102c2b89-4d3d-46f5-b9f0-a7afa9aadb58/BV-ProductBrief--q5dc32fbc134e.png",
+      "bytes": "31286"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/102c2b89-4d3d-46f5-b9f0-a7afa9aadb58/BV-ProductBrief.png?format=750w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/102c2b89-4d3d-46f5-b9f0-a7afa9aadb58/BV-ProductBrief--q799c3c57e0ea.png",
+      "bytes": "52354"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/1770323437095-I583Z062YW76HQCPLA85/unsplash-image-FnD1bPuFxWw.jpg",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/1770323437095-I583Z062YW76HQCPLA85/unsplash-image-FnD1bPuFxWw.jpg",
+      "bytes": "739906"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/1770323437095-I583Z062YW76HQCPLA85/unsplash-image-FnD1bPuFxWw.jpg?format=1000w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/1770323437095-I583Z062YW76HQCPLA85/unsplash-image-FnD1bPuFxWw--qba03c59ce59d.jpg",
+      "bytes": "115618"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/1770323437095-I583Z062YW76HQCPLA85/unsplash-image-FnD1bPuFxWw.jpg?format=100w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/1770323437095-I583Z062YW76HQCPLA85/unsplash-image-FnD1bPuFxWw--q2f39b9f0ad5f.jpg",
+      "bytes": "6824"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/1770323437095-I583Z062YW76HQCPLA85/unsplash-image-FnD1bPuFxWw.jpg?format=1500w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/1770323437095-I583Z062YW76HQCPLA85/unsplash-image-FnD1bPuFxWw--q2203e1773de7.jpg",
+      "bytes": "245864"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/1770323437095-I583Z062YW76HQCPLA85/unsplash-image-FnD1bPuFxWw.jpg?format=2500w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/1770323437095-I583Z062YW76HQCPLA85/unsplash-image-FnD1bPuFxWw--qc641dc906bd5.jpg",
+      "bytes": "739906"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/1770323437095-I583Z062YW76HQCPLA85/unsplash-image-FnD1bPuFxWw.jpg?format=300w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/1770323437095-I583Z062YW76HQCPLA85/unsplash-image-FnD1bPuFxWw--qae31c69e37e0.jpg",
+      "bytes": "23076"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/1770323437095-I583Z062YW76HQCPLA85/unsplash-image-FnD1bPuFxWw.jpg?format=500w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/1770323437095-I583Z062YW76HQCPLA85/unsplash-image-FnD1bPuFxWw--q5dc32fbc134e.jpg",
+      "bytes": "45320"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/1770323437095-I583Z062YW76HQCPLA85/unsplash-image-FnD1bPuFxWw.jpg?format=750w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/1770323437095-I583Z062YW76HQCPLA85/unsplash-image-FnD1bPuFxWw--q799c3c57e0ea.jpg",
+      "bytes": "76424"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/1de11f2d-fe54-40b7-9f2a-caf6f8411a0a/Pendo+Home.png",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/1de11f2d-fe54-40b7-9f2a-caf6f8411a0a/Pendo+Home.png",
+      "bytes": "54084"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/1de11f2d-fe54-40b7-9f2a-caf6f8411a0a/Pendo+Home.png?format=1000w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/1de11f2d-fe54-40b7-9f2a-caf6f8411a0a/Pendo+Home--qba03c59ce59d.png",
+      "bytes": "92932"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/1de11f2d-fe54-40b7-9f2a-caf6f8411a0a/Pendo+Home.png?format=100w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/1de11f2d-fe54-40b7-9f2a-caf6f8411a0a/Pendo+Home--q2f39b9f0ad5f.png",
+      "bytes": "4134"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/1de11f2d-fe54-40b7-9f2a-caf6f8411a0a/Pendo+Home.png?format=1500w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/1de11f2d-fe54-40b7-9f2a-caf6f8411a0a/Pendo+Home--q2203e1773de7.png",
+      "bytes": "54084"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/1de11f2d-fe54-40b7-9f2a-caf6f8411a0a/Pendo+Home.png?format=2500w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/1de11f2d-fe54-40b7-9f2a-caf6f8411a0a/Pendo+Home--qc641dc906bd5.png",
+      "bytes": "54084"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/1de11f2d-fe54-40b7-9f2a-caf6f8411a0a/Pendo+Home.png?format=300w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/1de11f2d-fe54-40b7-9f2a-caf6f8411a0a/Pendo+Home--qae31c69e37e0.png",
+      "bytes": "16750"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/1de11f2d-fe54-40b7-9f2a-caf6f8411a0a/Pendo+Home.png?format=500w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/1de11f2d-fe54-40b7-9f2a-caf6f8411a0a/Pendo+Home--q5dc32fbc134e.png",
+      "bytes": "34718"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/1de11f2d-fe54-40b7-9f2a-caf6f8411a0a/Pendo+Home.png?format=750w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/1de11f2d-fe54-40b7-9f2a-caf6f8411a0a/Pendo+Home--q799c3c57e0ea.png",
+      "bytes": "61052"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/3c953072-fa5b-42af-8d1f-445747908427/Applicants+List.png",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/3c953072-fa5b-42af-8d1f-445747908427/Applicants+List.png",
+      "bytes": "35464"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/3c953072-fa5b-42af-8d1f-445747908427/Applicants+List.png?format=1000w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/3c953072-fa5b-42af-8d1f-445747908427/Applicants+List--qba03c59ce59d.png",
+      "bytes": "94740"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/3c953072-fa5b-42af-8d1f-445747908427/Applicants+List.png?format=100w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/3c953072-fa5b-42af-8d1f-445747908427/Applicants+List--q2f39b9f0ad5f.png",
+      "bytes": "4516"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/3c953072-fa5b-42af-8d1f-445747908427/Applicants+List.png?format=1500w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/3c953072-fa5b-42af-8d1f-445747908427/Applicants+List--q2203e1773de7.png",
+      "bytes": "35464"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/3c953072-fa5b-42af-8d1f-445747908427/Applicants+List.png?format=2500w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/3c953072-fa5b-42af-8d1f-445747908427/Applicants+List--qc641dc906bd5.png",
+      "bytes": "35464"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/3c953072-fa5b-42af-8d1f-445747908427/Applicants+List.png?format=300w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/3c953072-fa5b-42af-8d1f-445747908427/Applicants+List--qae31c69e37e0.png",
+      "bytes": "19392"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/3c953072-fa5b-42af-8d1f-445747908427/Applicants+List.png?format=500w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/3c953072-fa5b-42af-8d1f-445747908427/Applicants+List--q5dc32fbc134e.png",
+      "bytes": "35614"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/3c953072-fa5b-42af-8d1f-445747908427/Applicants+List.png?format=750w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/3c953072-fa5b-42af-8d1f-445747908427/Applicants+List--q799c3c57e0ea.png",
+      "bytes": "62808"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/3cb41670-a762-410e-9700-c28f6d2798ec/BV-profile.png",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/3cb41670-a762-410e-9700-c28f6d2798ec/BV-profile.png",
+      "bytes": "107632"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/3cb41670-a762-410e-9700-c28f6d2798ec/BV-profile.png?format=1000w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/3cb41670-a762-410e-9700-c28f6d2798ec/BV-profile--qba03c59ce59d.png",
+      "bytes": "107336"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/3cb41670-a762-410e-9700-c28f6d2798ec/BV-profile.png?format=100w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/3cb41670-a762-410e-9700-c28f6d2798ec/BV-profile--q2f39b9f0ad5f.png",
+      "bytes": "8486"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/3cb41670-a762-410e-9700-c28f6d2798ec/BV-profile.png?format=1500w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/3cb41670-a762-410e-9700-c28f6d2798ec/BV-profile--q2203e1773de7.png",
+      "bytes": "178548"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/3cb41670-a762-410e-9700-c28f6d2798ec/BV-profile.png?format=2500w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/3cb41670-a762-410e-9700-c28f6d2798ec/BV-profile--qc641dc906bd5.png",
+      "bytes": "107632"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/3cb41670-a762-410e-9700-c28f6d2798ec/BV-profile.png?format=300w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/3cb41670-a762-410e-9700-c28f6d2798ec/BV-profile--qae31c69e37e0.png",
+      "bytes": "22568"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/3cb41670-a762-410e-9700-c28f6d2798ec/BV-profile.png?format=500w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/3cb41670-a762-410e-9700-c28f6d2798ec/BV-profile--q5dc32fbc134e.png",
+      "bytes": "43710"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/3cb41670-a762-410e-9700-c28f6d2798ec/BV-profile.png?format=750w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/3cb41670-a762-410e-9700-c28f6d2798ec/BV-profile--q799c3c57e0ea.png",
+      "bytes": "74058"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/44e87fbb-d1ea-4df9-be3f-79b19ca08b50/CloudCP-Server-List.png",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/44e87fbb-d1ea-4df9-be3f-79b19ca08b50/CloudCP-Server-List.png",
+      "bytes": "72462"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/44e87fbb-d1ea-4df9-be3f-79b19ca08b50/CloudCP-Server-List.png?format=1000w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/44e87fbb-d1ea-4df9-be3f-79b19ca08b50/CloudCP-Server-List--qba03c59ce59d.png",
+      "bytes": "205964"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/44e87fbb-d1ea-4df9-be3f-79b19ca08b50/CloudCP-Server-List.png?format=100w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/44e87fbb-d1ea-4df9-be3f-79b19ca08b50/CloudCP-Server-List--q2f39b9f0ad5f.png",
+      "bytes": "4590"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/44e87fbb-d1ea-4df9-be3f-79b19ca08b50/CloudCP-Server-List.png?format=1500w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/44e87fbb-d1ea-4df9-be3f-79b19ca08b50/CloudCP-Server-List--q2203e1773de7.png",
+      "bytes": "72462"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/44e87fbb-d1ea-4df9-be3f-79b19ca08b50/CloudCP-Server-List.png?format=2500w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/44e87fbb-d1ea-4df9-be3f-79b19ca08b50/CloudCP-Server-List--qc641dc906bd5.png",
+      "bytes": "72462"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/44e87fbb-d1ea-4df9-be3f-79b19ca08b50/CloudCP-Server-List.png?format=300w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/44e87fbb-d1ea-4df9-be3f-79b19ca08b50/CloudCP-Server-List--qae31c69e37e0.png",
+      "bytes": "24092"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/44e87fbb-d1ea-4df9-be3f-79b19ca08b50/CloudCP-Server-List.png?format=500w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/44e87fbb-d1ea-4df9-be3f-79b19ca08b50/CloudCP-Server-List--q5dc32fbc134e.png",
+      "bytes": "58862"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/44e87fbb-d1ea-4df9-be3f-79b19ca08b50/CloudCP-Server-List.png?format=750w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/44e87fbb-d1ea-4df9-be3f-79b19ca08b50/CloudCP-Server-List--q799c3c57e0ea.png",
+      "bytes": "117774"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/541eb337-4d98-41e2-8583-7ef989e3a82a/IWS-CompetitiveAnalysis.png",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/541eb337-4d98-41e2-8583-7ef989e3a82a/IWS-CompetitiveAnalysis.png",
+      "bytes": "498334"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/541eb337-4d98-41e2-8583-7ef989e3a82a/IWS-CompetitiveAnalysis.png?format=1000w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/541eb337-4d98-41e2-8583-7ef989e3a82a/IWS-CompetitiveAnalysis--qba03c59ce59d.png",
+      "bytes": "237214"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/541eb337-4d98-41e2-8583-7ef989e3a82a/IWS-CompetitiveAnalysis.png?format=100w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/541eb337-4d98-41e2-8583-7ef989e3a82a/IWS-CompetitiveAnalysis--q2f39b9f0ad5f.png",
+      "bytes": "10206"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/541eb337-4d98-41e2-8583-7ef989e3a82a/IWS-CompetitiveAnalysis.png?format=1500w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/541eb337-4d98-41e2-8583-7ef989e3a82a/IWS-CompetitiveAnalysis--q2203e1773de7.png",
+      "bytes": "440870"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/541eb337-4d98-41e2-8583-7ef989e3a82a/IWS-CompetitiveAnalysis.png?format=2500w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/541eb337-4d98-41e2-8583-7ef989e3a82a/IWS-CompetitiveAnalysis--qc641dc906bd5.png",
+      "bytes": "498334"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/541eb337-4d98-41e2-8583-7ef989e3a82a/IWS-CompetitiveAnalysis.png?format=300w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/541eb337-4d98-41e2-8583-7ef989e3a82a/IWS-CompetitiveAnalysis--qae31c69e37e0.png",
+      "bytes": "37954"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/541eb337-4d98-41e2-8583-7ef989e3a82a/IWS-CompetitiveAnalysis.png?format=500w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/541eb337-4d98-41e2-8583-7ef989e3a82a/IWS-CompetitiveAnalysis--q5dc32fbc134e.png",
+      "bytes": "80256"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/541eb337-4d98-41e2-8583-7ef989e3a82a/IWS-CompetitiveAnalysis.png?format=750w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/541eb337-4d98-41e2-8583-7ef989e3a82a/IWS-CompetitiveAnalysis--q799c3c57e0ea.png",
+      "bytes": "149772"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/55d39650-7a6f-4a1c-8ffb-9334c185fb07/Candidate-Pipeline_A-List+Import+Overview.png",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/55d39650-7a6f-4a1c-8ffb-9334c185fb07/Candidate-Pipeline_A-List+Import+Overview.png",
+      "bytes": "106408"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/55d39650-7a6f-4a1c-8ffb-9334c185fb07/Candidate-Pipeline_A-List+Import+Overview.png?format=1000w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/55d39650-7a6f-4a1c-8ffb-9334c185fb07/Candidate-Pipeline_A-List+Import+Overview--qba03c59ce59d.png",
+      "bytes": "33504"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/55d39650-7a6f-4a1c-8ffb-9334c185fb07/Candidate-Pipeline_A-List+Import+Overview.png?format=100w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/55d39650-7a6f-4a1c-8ffb-9334c185fb07/Candidate-Pipeline_A-List+Import+Overview--q2f39b9f0ad5f.png",
+      "bytes": "2638"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/55d39650-7a6f-4a1c-8ffb-9334c185fb07/Candidate-Pipeline_A-List+Import+Overview.png?format=1500w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/55d39650-7a6f-4a1c-8ffb-9334c185fb07/Candidate-Pipeline_A-List+Import+Overview--q2203e1773de7.png",
+      "bytes": "60446"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/55d39650-7a6f-4a1c-8ffb-9334c185fb07/Candidate-Pipeline_A-List+Import+Overview.png?format=2500w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/55d39650-7a6f-4a1c-8ffb-9334c185fb07/Candidate-Pipeline_A-List+Import+Overview--qc641dc906bd5.png",
+      "bytes": "106408"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/55d39650-7a6f-4a1c-8ffb-9334c185fb07/Candidate-Pipeline_A-List+Import+Overview.png?format=300w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/55d39650-7a6f-4a1c-8ffb-9334c185fb07/Candidate-Pipeline_A-List+Import+Overview--qae31c69e37e0.png",
+      "bytes": "8648"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/55d39650-7a6f-4a1c-8ffb-9334c185fb07/Candidate-Pipeline_A-List+Import+Overview.png?format=500w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/55d39650-7a6f-4a1c-8ffb-9334c185fb07/Candidate-Pipeline_A-List+Import+Overview--q5dc32fbc134e.png",
+      "bytes": "15010"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/55d39650-7a6f-4a1c-8ffb-9334c185fb07/Candidate-Pipeline_A-List+Import+Overview.png?format=750w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/55d39650-7a6f-4a1c-8ffb-9334c185fb07/Candidate-Pipeline_A-List+Import+Overview--q799c3c57e0ea.png",
+      "bytes": "23850"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/619342bf-167a-4d9d-ae8b-d6994876b935/IWS-Architecture.png",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/619342bf-167a-4d9d-ae8b-d6994876b935/IWS-Architecture.png",
+      "bytes": "80240"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/619342bf-167a-4d9d-ae8b-d6994876b935/IWS-Architecture.png?format=1000w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/619342bf-167a-4d9d-ae8b-d6994876b935/IWS-Architecture--qba03c59ce59d.png",
+      "bytes": "114680"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/619342bf-167a-4d9d-ae8b-d6994876b935/IWS-Architecture.png?format=100w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/619342bf-167a-4d9d-ae8b-d6994876b935/IWS-Architecture--q2f39b9f0ad5f.png",
+      "bytes": "8654"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/619342bf-167a-4d9d-ae8b-d6994876b935/IWS-Architecture.png?format=1500w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/619342bf-167a-4d9d-ae8b-d6994876b935/IWS-Architecture--q2203e1773de7.png",
+      "bytes": "191920"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/619342bf-167a-4d9d-ae8b-d6994876b935/IWS-Architecture.png?format=2500w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/619342bf-167a-4d9d-ae8b-d6994876b935/IWS-Architecture--qc641dc906bd5.png",
+      "bytes": "80240"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/619342bf-167a-4d9d-ae8b-d6994876b935/IWS-Architecture.png?format=300w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/619342bf-167a-4d9d-ae8b-d6994876b935/IWS-Architecture--qae31c69e37e0.png",
+      "bytes": "27290"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/619342bf-167a-4d9d-ae8b-d6994876b935/IWS-Architecture.png?format=500w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/619342bf-167a-4d9d-ae8b-d6994876b935/IWS-Architecture--q5dc32fbc134e.png",
+      "bytes": "45880"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/619342bf-167a-4d9d-ae8b-d6994876b935/IWS-Architecture.png?format=750w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/619342bf-167a-4d9d-ae8b-d6994876b935/IWS-Architecture--q799c3c57e0ea.png",
+      "bytes": "81178"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/6add9a36-d875-47f3-b2e6-1960de913079/IWS-Home.png",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/6add9a36-d875-47f3-b2e6-1960de913079/IWS-Home.png",
+      "bytes": "100606"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/6add9a36-d875-47f3-b2e6-1960de913079/IWS-Home.png?format=1000w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/6add9a36-d875-47f3-b2e6-1960de913079/IWS-Home--qba03c59ce59d.png",
+      "bytes": "118784"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/6add9a36-d875-47f3-b2e6-1960de913079/IWS-Home.png?format=100w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/6add9a36-d875-47f3-b2e6-1960de913079/IWS-Home--q2f39b9f0ad5f.png",
+      "bytes": "5212"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/6add9a36-d875-47f3-b2e6-1960de913079/IWS-Home.png?format=1500w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/6add9a36-d875-47f3-b2e6-1960de913079/IWS-Home--q2203e1773de7.png",
+      "bytes": "100606"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/6add9a36-d875-47f3-b2e6-1960de913079/IWS-Home.png?format=2500w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/6add9a36-d875-47f3-b2e6-1960de913079/IWS-Home--qc641dc906bd5.png",
+      "bytes": "100606"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/6add9a36-d875-47f3-b2e6-1960de913079/IWS-Home.png?format=300w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/6add9a36-d875-47f3-b2e6-1960de913079/IWS-Home--qae31c69e37e0.png",
+      "bytes": "20950"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/6add9a36-d875-47f3-b2e6-1960de913079/IWS-Home.png?format=500w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/6add9a36-d875-47f3-b2e6-1960de913079/IWS-Home--q5dc32fbc134e.png",
+      "bytes": "44746"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/6add9a36-d875-47f3-b2e6-1960de913079/IWS-Home.png?format=750w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/6add9a36-d875-47f3-b2e6-1960de913079/IWS-Home--q799c3c57e0ea.png",
+      "bytes": "81678"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/7082e176-e1fc-499a-bb4d-7e09078160df/A-List-Wireframe.png",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/7082e176-e1fc-499a-bb4d-7e09078160df/A-List-Wireframe.png",
+      "bytes": "62838"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/7082e176-e1fc-499a-bb4d-7e09078160df/A-List-Wireframe.png?format=1000w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/7082e176-e1fc-499a-bb4d-7e09078160df/A-List-Wireframe--qba03c59ce59d.png",
+      "bytes": "91872"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/7082e176-e1fc-499a-bb4d-7e09078160df/A-List-Wireframe.png?format=100w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/7082e176-e1fc-499a-bb4d-7e09078160df/A-List-Wireframe--q2f39b9f0ad5f.png",
+      "bytes": "3996"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/7082e176-e1fc-499a-bb4d-7e09078160df/A-List-Wireframe.png?format=1500w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/7082e176-e1fc-499a-bb4d-7e09078160df/A-List-Wireframe--q2203e1773de7.png",
+      "bytes": "62838"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/7082e176-e1fc-499a-bb4d-7e09078160df/A-List-Wireframe.png?format=2500w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/7082e176-e1fc-499a-bb4d-7e09078160df/A-List-Wireframe--qc641dc906bd5.png",
+      "bytes": "62838"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/7082e176-e1fc-499a-bb4d-7e09078160df/A-List-Wireframe.png?format=300w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/7082e176-e1fc-499a-bb4d-7e09078160df/A-List-Wireframe--qae31c69e37e0.png",
+      "bytes": "17734"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/7082e176-e1fc-499a-bb4d-7e09078160df/A-List-Wireframe.png?format=500w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/7082e176-e1fc-499a-bb4d-7e09078160df/A-List-Wireframe--q5dc32fbc134e.png",
+      "bytes": "38020"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/7082e176-e1fc-499a-bb4d-7e09078160df/A-List-Wireframe.png?format=750w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/7082e176-e1fc-499a-bb4d-7e09078160df/A-List-Wireframe--q799c3c57e0ea.png",
+      "bytes": "62026"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/8104d19e-15b2-4f5e-ad85-f65a7a030fe0/BV-Spreadsheet.png",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/8104d19e-15b2-4f5e-ad85-f65a7a030fe0/BV-Spreadsheet.png",
+      "bytes": "641098"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/8104d19e-15b2-4f5e-ad85-f65a7a030fe0/BV-Spreadsheet.png?format=1000w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/8104d19e-15b2-4f5e-ad85-f65a7a030fe0/BV-Spreadsheet--qba03c59ce59d.png",
+      "bytes": "218112"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/8104d19e-15b2-4f5e-ad85-f65a7a030fe0/BV-Spreadsheet.png?format=100w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/8104d19e-15b2-4f5e-ad85-f65a7a030fe0/BV-Spreadsheet--q2f39b9f0ad5f.png",
+      "bytes": "11216"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/8104d19e-15b2-4f5e-ad85-f65a7a030fe0/BV-Spreadsheet.png?format=1500w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/8104d19e-15b2-4f5e-ad85-f65a7a030fe0/BV-Spreadsheet--q2203e1773de7.png",
+      "bytes": "387882"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/8104d19e-15b2-4f5e-ad85-f65a7a030fe0/BV-Spreadsheet.png?format=2500w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/8104d19e-15b2-4f5e-ad85-f65a7a030fe0/BV-Spreadsheet--qc641dc906bd5.png",
+      "bytes": "641098"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/8104d19e-15b2-4f5e-ad85-f65a7a030fe0/BV-Spreadsheet.png?format=300w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/8104d19e-15b2-4f5e-ad85-f65a7a030fe0/BV-Spreadsheet--qae31c69e37e0.png",
+      "bytes": "45884"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/8104d19e-15b2-4f5e-ad85-f65a7a030fe0/BV-Spreadsheet.png?format=500w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/8104d19e-15b2-4f5e-ad85-f65a7a030fe0/BV-Spreadsheet--q5dc32fbc134e.png",
+      "bytes": "84856"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/8104d19e-15b2-4f5e-ad85-f65a7a030fe0/BV-Spreadsheet.png?format=750w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/8104d19e-15b2-4f5e-ad85-f65a7a030fe0/BV-Spreadsheet--q799c3c57e0ea.png",
+      "bytes": "148840"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/9e328da3-5413-4b9c-a4a7-569996f87dce/Pendo-Home.png",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/9e328da3-5413-4b9c-a4a7-569996f87dce/Pendo-Home.png",
+      "bytes": "105834"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/a30baa83-a891-4da1-9b3e-80bbc5c83428/Workspace-Home.png",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/a30baa83-a891-4da1-9b3e-80bbc5c83428/Workspace-Home.png",
+      "bytes": "263036"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/a30baa83-a891-4da1-9b3e-80bbc5c83428/Workspace-Home.png?format=1000w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/a30baa83-a891-4da1-9b3e-80bbc5c83428/Workspace-Home--qba03c59ce59d.png",
+      "bytes": "83408"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/a30baa83-a891-4da1-9b3e-80bbc5c83428/Workspace-Home.png?format=100w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/a30baa83-a891-4da1-9b3e-80bbc5c83428/Workspace-Home--q2f39b9f0ad5f.png",
+      "bytes": "4270"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/a30baa83-a891-4da1-9b3e-80bbc5c83428/Workspace-Home.png?format=1500w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/a30baa83-a891-4da1-9b3e-80bbc5c83428/Workspace-Home--q2203e1773de7.png",
+      "bytes": "143410"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/a30baa83-a891-4da1-9b3e-80bbc5c83428/Workspace-Home.png?format=2500w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/a30baa83-a891-4da1-9b3e-80bbc5c83428/Workspace-Home--qc641dc906bd5.png",
+      "bytes": "263036"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/a30baa83-a891-4da1-9b3e-80bbc5c83428/Workspace-Home.png?format=300w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/a30baa83-a891-4da1-9b3e-80bbc5c83428/Workspace-Home--qae31c69e37e0.png",
+      "bytes": "16014"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/a30baa83-a891-4da1-9b3e-80bbc5c83428/Workspace-Home.png?format=500w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/a30baa83-a891-4da1-9b3e-80bbc5c83428/Workspace-Home--q5dc32fbc134e.png",
+      "bytes": "32372"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/a30baa83-a891-4da1-9b3e-80bbc5c83428/Workspace-Home.png?format=750w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/a30baa83-a891-4da1-9b3e-80bbc5c83428/Workspace-Home--q799c3c57e0ea.png",
+      "bytes": "57892"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/abee73a5-405d-415c-a735-8bf1afd962d5/Internal+A-List+-+Project+Activity+Notes.png",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/abee73a5-405d-415c-a735-8bf1afd962d5/Internal+A-List+-+Project+Activity+Notes.png",
+      "bytes": "73650"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/ae8ae7be-be5d-4c6f-9350-10f8ca00338a/BV-usabilitytestnotes.png",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/ae8ae7be-be5d-4c6f-9350-10f8ca00338a/BV-usabilitytestnotes.png",
+      "bytes": "59524"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/ae8ae7be-be5d-4c6f-9350-10f8ca00338a/BV-usabilitytestnotes.png?format=1000w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/ae8ae7be-be5d-4c6f-9350-10f8ca00338a/BV-usabilitytestnotes--qba03c59ce59d.png",
+      "bytes": "83308"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/ae8ae7be-be5d-4c6f-9350-10f8ca00338a/BV-usabilitytestnotes.png?format=100w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/ae8ae7be-be5d-4c6f-9350-10f8ca00338a/BV-usabilitytestnotes--q2f39b9f0ad5f.png",
+      "bytes": "7130"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/ae8ae7be-be5d-4c6f-9350-10f8ca00338a/BV-usabilitytestnotes.png?format=1500w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/ae8ae7be-be5d-4c6f-9350-10f8ca00338a/BV-usabilitytestnotes--q2203e1773de7.png",
+      "bytes": "141664"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/ae8ae7be-be5d-4c6f-9350-10f8ca00338a/BV-usabilitytestnotes.png?format=2500w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/ae8ae7be-be5d-4c6f-9350-10f8ca00338a/BV-usabilitytestnotes--qc641dc906bd5.png",
+      "bytes": "59524"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/ae8ae7be-be5d-4c6f-9350-10f8ca00338a/BV-usabilitytestnotes.png?format=300w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/ae8ae7be-be5d-4c6f-9350-10f8ca00338a/BV-usabilitytestnotes--qae31c69e37e0.png",
+      "bytes": "18286"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/ae8ae7be-be5d-4c6f-9350-10f8ca00338a/BV-usabilitytestnotes.png?format=500w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/ae8ae7be-be5d-4c6f-9350-10f8ca00338a/BV-usabilitytestnotes--q5dc32fbc134e.png",
+      "bytes": "33024"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/ae8ae7be-be5d-4c6f-9350-10f8ca00338a/BV-usabilitytestnotes.png?format=750w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/ae8ae7be-be5d-4c6f-9350-10f8ca00338a/BV-usabilitytestnotes--q799c3c57e0ea.png",
+      "bytes": "58506"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/b2a386de-7f07-4a6d-af99-ee4047d4709e/BV-Pipeline.png",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/b2a386de-7f07-4a6d-af99-ee4047d4709e/BV-Pipeline.png",
+      "bytes": "39524"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/b2a386de-7f07-4a6d-af99-ee4047d4709e/BV-Pipeline.png?format=1000w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/b2a386de-7f07-4a6d-af99-ee4047d4709e/BV-Pipeline--qba03c59ce59d.png",
+      "bytes": "101764"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/b2a386de-7f07-4a6d-af99-ee4047d4709e/BV-Pipeline.png?format=100w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/b2a386de-7f07-4a6d-af99-ee4047d4709e/BV-Pipeline--q2f39b9f0ad5f.png",
+      "bytes": "4564"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/b2a386de-7f07-4a6d-af99-ee4047d4709e/BV-Pipeline.png?format=1500w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/b2a386de-7f07-4a6d-af99-ee4047d4709e/BV-Pipeline--q2203e1773de7.png",
+      "bytes": "39524"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/b2a386de-7f07-4a6d-af99-ee4047d4709e/BV-Pipeline.png?format=2500w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/b2a386de-7f07-4a6d-af99-ee4047d4709e/BV-Pipeline--qc641dc906bd5.png",
+      "bytes": "39524"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/b2a386de-7f07-4a6d-af99-ee4047d4709e/BV-Pipeline.png?format=300w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/b2a386de-7f07-4a6d-af99-ee4047d4709e/BV-Pipeline--qae31c69e37e0.png",
+      "bytes": "18168"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/b2a386de-7f07-4a6d-af99-ee4047d4709e/BV-Pipeline.png?format=500w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/b2a386de-7f07-4a6d-af99-ee4047d4709e/BV-Pipeline--q5dc32fbc134e.png",
+      "bytes": "39122"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/b2a386de-7f07-4a6d-af99-ee4047d4709e/BV-Pipeline.png?format=750w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/b2a386de-7f07-4a6d-af99-ee4047d4709e/BV-Pipeline--q799c3c57e0ea.png",
+      "bytes": "67228"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/bbe2c758-c724-44af-b87c-7c667f1e5ab5/IWS+Home+Activity.png",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/bbe2c758-c724-44af-b87c-7c667f1e5ab5/IWS+Home+Activity.png",
+      "bytes": "80448"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/c896ab8c-9a8d-4127-ac3a-586899a2bc55/favicon.ico?format=100w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/c896ab8c-9a8d-4127-ac3a-586899a2bc55/favicon--q2f39b9f0ad5f.ico",
+      "bytes": "8058"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/e14108e4-90be-475a-bb4d-fdf6cc829ba9/Flow.png",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/e14108e4-90be-475a-bb4d-fdf6cc829ba9/Flow.png",
+      "bytes": "36700"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/e14108e4-90be-475a-bb4d-fdf6cc829ba9/Flow.png?format=1000w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/e14108e4-90be-475a-bb4d-fdf6cc829ba9/Flow--qba03c59ce59d.png",
+      "bytes": "38552"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/e14108e4-90be-475a-bb4d-fdf6cc829ba9/Flow.png?format=100w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/e14108e4-90be-475a-bb4d-fdf6cc829ba9/Flow--q2f39b9f0ad5f.png",
+      "bytes": "2040"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/e14108e4-90be-475a-bb4d-fdf6cc829ba9/Flow.png?format=1500w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/e14108e4-90be-475a-bb4d-fdf6cc829ba9/Flow--q2203e1773de7.png",
+      "bytes": "62750"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/e14108e4-90be-475a-bb4d-fdf6cc829ba9/Flow.png?format=2500w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/e14108e4-90be-475a-bb4d-fdf6cc829ba9/Flow--qc641dc906bd5.png",
+      "bytes": "36700"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/e14108e4-90be-475a-bb4d-fdf6cc829ba9/Flow.png?format=300w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/e14108e4-90be-475a-bb4d-fdf6cc829ba9/Flow--qae31c69e37e0.png",
+      "bytes": "7780"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/e14108e4-90be-475a-bb4d-fdf6cc829ba9/Flow.png?format=500w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/e14108e4-90be-475a-bb4d-fdf6cc829ba9/Flow--q5dc32fbc134e.png",
+      "bytes": "14756"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/e14108e4-90be-475a-bb4d-fdf6cc829ba9/Flow.png?format=750w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/e14108e4-90be-475a-bb4d-fdf6cc829ba9/Flow--q799c3c57e0ea.png",
+      "bytes": "25498"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/e16e70e5-f357-484c-9976-8659e63ae49a/CustomerFeedback.png",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/e16e70e5-f357-484c-9976-8659e63ae49a/CustomerFeedback.png",
+      "bytes": "68392"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/e16e70e5-f357-484c-9976-8659e63ae49a/CustomerFeedback.png?format=1000w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/e16e70e5-f357-484c-9976-8659e63ae49a/CustomerFeedback--qba03c59ce59d.png",
+      "bytes": "116344"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/e16e70e5-f357-484c-9976-8659e63ae49a/CustomerFeedback.png?format=100w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/e16e70e5-f357-484c-9976-8659e63ae49a/CustomerFeedback--q2f39b9f0ad5f.png",
+      "bytes": "8044"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/e16e70e5-f357-484c-9976-8659e63ae49a/CustomerFeedback.png?format=1500w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/e16e70e5-f357-484c-9976-8659e63ae49a/CustomerFeedback--q2203e1773de7.png",
+      "bytes": "200836"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/e16e70e5-f357-484c-9976-8659e63ae49a/CustomerFeedback.png?format=2500w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/e16e70e5-f357-484c-9976-8659e63ae49a/CustomerFeedback--qc641dc906bd5.png",
+      "bytes": "68392"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/e16e70e5-f357-484c-9976-8659e63ae49a/CustomerFeedback.png?format=300w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/e16e70e5-f357-484c-9976-8659e63ae49a/CustomerFeedback--qae31c69e37e0.png",
+      "bytes": "24788"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/e16e70e5-f357-484c-9976-8659e63ae49a/CustomerFeedback.png?format=500w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/e16e70e5-f357-484c-9976-8659e63ae49a/CustomerFeedback--q5dc32fbc134e.png",
+      "bytes": "46988"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/e16e70e5-f357-484c-9976-8659e63ae49a/CustomerFeedback.png?format=750w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/e16e70e5-f357-484c-9976-8659e63ae49a/CustomerFeedback--q799c3c57e0ea.png",
+      "bytes": "81248"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/e59eecba-b5d8-4aa8-a01d-87efbab99140/CitrixStoreFront.jpg",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/e59eecba-b5d8-4aa8-a01d-87efbab99140/CitrixStoreFront.jpg",
+      "bytes": "37388"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/e59eecba-b5d8-4aa8-a01d-87efbab99140/CitrixStoreFront.jpg?format=1000w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/e59eecba-b5d8-4aa8-a01d-87efbab99140/CitrixStoreFront--qba03c59ce59d.jpg",
+      "bytes": "26422"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/e59eecba-b5d8-4aa8-a01d-87efbab99140/CitrixStoreFront.jpg?format=100w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/e59eecba-b5d8-4aa8-a01d-87efbab99140/CitrixStoreFront--q2f39b9f0ad5f.jpg",
+      "bytes": "1462"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/e59eecba-b5d8-4aa8-a01d-87efbab99140/CitrixStoreFront.jpg?format=1500w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/e59eecba-b5d8-4aa8-a01d-87efbab99140/CitrixStoreFront--q2203e1773de7.jpg",
+      "bytes": "37388"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/e59eecba-b5d8-4aa8-a01d-87efbab99140/CitrixStoreFront.jpg?format=2500w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/e59eecba-b5d8-4aa8-a01d-87efbab99140/CitrixStoreFront--qc641dc906bd5.jpg",
+      "bytes": "37388"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/e59eecba-b5d8-4aa8-a01d-87efbab99140/CitrixStoreFront.jpg?format=300w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/e59eecba-b5d8-4aa8-a01d-87efbab99140/CitrixStoreFront--qae31c69e37e0.jpg",
+      "bytes": "5394"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/e59eecba-b5d8-4aa8-a01d-87efbab99140/CitrixStoreFront.jpg?format=500w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/e59eecba-b5d8-4aa8-a01d-87efbab99140/CitrixStoreFront--q5dc32fbc134e.jpg",
+      "bytes": "10948"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/e59eecba-b5d8-4aa8-a01d-87efbab99140/CitrixStoreFront.jpg?format=750w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/e59eecba-b5d8-4aa8-a01d-87efbab99140/CitrixStoreFront--q799c3c57e0ea.jpg",
+      "bytes": "18100"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/ebfd934a-adb5-428a-bc14-5874d7784875/BV-ClientFlow.png",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/ebfd934a-adb5-428a-bc14-5874d7784875/BV-ClientFlow.png",
+      "bytes": "87972"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/ebfd934a-adb5-428a-bc14-5874d7784875/BV-ClientFlow.png?format=1000w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/ebfd934a-adb5-428a-bc14-5874d7784875/BV-ClientFlow--qba03c59ce59d.png",
+      "bytes": "97484"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/ebfd934a-adb5-428a-bc14-5874d7784875/BV-ClientFlow.png?format=100w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/ebfd934a-adb5-428a-bc14-5874d7784875/BV-ClientFlow--q2f39b9f0ad5f.png",
+      "bytes": "3914"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/ebfd934a-adb5-428a-bc14-5874d7784875/BV-ClientFlow.png?format=1500w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/ebfd934a-adb5-428a-bc14-5874d7784875/BV-ClientFlow--q2203e1773de7.png",
+      "bytes": "171852"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/ebfd934a-adb5-428a-bc14-5874d7784875/BV-ClientFlow.png?format=2500w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/ebfd934a-adb5-428a-bc14-5874d7784875/BV-ClientFlow--qc641dc906bd5.png",
+      "bytes": "87972"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/ebfd934a-adb5-428a-bc14-5874d7784875/BV-ClientFlow.png?format=300w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/ebfd934a-adb5-428a-bc14-5874d7784875/BV-ClientFlow--qae31c69e37e0.png",
+      "bytes": "17568"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/ebfd934a-adb5-428a-bc14-5874d7784875/BV-ClientFlow.png?format=500w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/ebfd934a-adb5-428a-bc14-5874d7784875/BV-ClientFlow--q5dc32fbc134e.png",
+      "bytes": "34288"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/ebfd934a-adb5-428a-bc14-5874d7784875/BV-ClientFlow.png?format=750w",
+      "file": "assets/images.squarespace-cdn.com/content/v1/689cc88384eb314fcfc9f237/ebfd934a-adb5-428a-bc14-5874d7784875/BV-ClientFlow--q799c3c57e0ea.png",
+      "bytes": "65234"
+    },
+    {
+      "url": "https://p.typekit.net/",
+      "file": "assets/p.typekit.net/index.bin",
+      "bytes": "161995"
+    },
+    {
+      "url": "https://static1.squarespace.com/static/versioned-site-css/689cc88384eb314fcfc9f237/5/5c5a519771c10ba3470d8101/689cc88384eb314fcfc9f23f/1810/site.css?nocustom=true",
+      "file": "assets/static1.squarespace.com/static/versioned-site-css/689cc88384eb314fcfc9f237/5/5c5a519771c10ba3470d8101/689cc88384eb314fcfc9f23f/1810/site--qc5d31a7d968b.css",
+      "bytes": "1271530"
+    },
+    {
+      "url": "https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/site-bundle.3ac4db8e38074e1383b5ecad2061af25.js",
+      "file": "assets/static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/site-bundle.3ac4db8e38074e1383b5ecad2061af25.js",
+      "bytes": "127517"
+    },
+    {
+      "url": "https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/versioned-assets/1784658820989-T86EF34M4QVPBBCSSFUN/static.css",
+      "file": "assets/static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/versioned-assets/1784658820989-T86EF34M4QVPBBCSSFUN/static.css",
+      "bytes": "475605"
+    },
+    {
+      "url": "https://use.typekit.net/",
+      "file": "assets/use.typekit.net/index.bin",
+      "bytes": "161958"
+    },
+    {
+      "url": "https://use.typekit.net/ik/5oRa1Dgs-L1FjmF-NYQvxd_Z3aTxk141N_bWIL-7GDCfecjJXnX1IyvhF2jtFRZLFR6ojhwt52wtFemKwDIXZcFcjD8cwRwae6MKfcuTdc8zdKu3Scv7fbKyFsMMeMb6MKG4f43uIMMjgkMfH6qJ1R9bMg65JMJ7fbKiFsMMegI6MTMgC-r9DMj.js",
+      "file": "assets/use.typekit.net/ik/5oRa1Dgs-L1FjmF-NYQvxd_Z3aTxk141N_bWIL-7GDCfecjJXnX1IyvhF2jtFRZLFR6ojhwt52wtFemKwDIXZcFcjD8cwRwae6MKfcuTdc8zdKu3Scv7fbKyFsMMeMb6MKG4f43uIMMjgkMfH6qJ1R9bMg65JMJ7fbKiFsMMegI6MTMgC-r9DMj.js",
+      "bytes": "17289"
+    },
+    {
+      "url": "https://www.laurenpuckettportfolio.com/s/LaurenPuckett-Resume-2026.pdf",
+      "file": "assets/www.laurenpuckettportfolio.com/s/LaurenPuckett-Resume-2026.pdf",
+      "bytes": "1457379"
+    },
+    {
+      "url": "https://www.laurenpuckettportfolio.com/s/Pendo-CaseStudy.pdf",
+      "file": "assets/www.laurenpuckettportfolio.com/s/Pendo-CaseStudy.pdf",
+      "bytes": "5617830"
+    },
+    {
+      "url": "https://www.laurenpuckettportfolio.com/s/Rackspace-CaseStudy.pdf",
+      "file": "assets/www.laurenpuckettportfolio.com/s/Rackspace-CaseStudy.pdf",
+      "bytes": "6277366"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/fonts/squarespace-ui-font.svg",
+      "file": "assets/assets.squarespace.com/universal/fonts/squarespace-ui-font.svg",
+      "bytes": "23403"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/images-v6/dialog/login-external-twitter.png",
+      "file": "assets/assets.squarespace.com/universal/images-v6/dialog/login-external-twitter.png",
+      "bytes": "2468"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/images-v6/dialog/login-external-facebook.png",
+      "file": "assets/assets.squarespace.com/universal/images-v6/dialog/login-external-facebook.png",
+      "bytes": "4122"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/images-v6/damask/clear-dark.png",
+      "file": "assets/assets.squarespace.com/universal/images-v6/damask/clear-dark.png",
+      "bytes": "1038"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/images-v6/logo/loading-logo-light.png?20170201",
+      "file": "assets/assets.squarespace.com/universal/images-v6/logo/loading-logo-light--qef977668e67e.png",
+      "bytes": "3116"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/images-v6/dialog/login-external-google.png",
+      "file": "assets/assets.squarespace.com/universal/images-v6/dialog/login-external-google.png",
+      "bytes": "96624"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/images-v6/logo/loading-logo-light@2x.png?20170201);background-size:300px}}body.squarespace-login",
+      "file": "assets/assets.squarespace.com/universal/images-v6/logo/loading-logo-light@2x--q13f13003d7de.png",
+      "bytes": "7337"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/scripts-compressed/add-dark-f6b8c1597672bca9.png",
+      "file": "assets/assets.squarespace.com/universal/scripts-compressed/add-dark-f6b8c1597672bca9.png",
+      "bytes": "14973"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/images-v6/configuration/manager-ss.png?20170201",
+      "file": "assets/assets.squarespace.com/universal/images-v6/configuration/manager-ss--qef977668e67e.png",
+      "bytes": "328"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/images-v6/damask/add-dark.png",
+      "file": "assets/assets.squarespace.com/universal/images-v6/damask/add-dark.png",
+      "bytes": "14973"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/images-v6/standard/icon_close_7_light.png",
+      "file": "assets/assets.squarespace.com/universal/images-v6/standard/icon_close_7_light.png",
+      "bytes": "176"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/images-v6/comments/icon_like_12_light.png",
+      "file": "assets/assets.squarespace.com/universal/images-v6/comments/icon_like_12_light.png",
+      "bytes": "222"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/images-v6/standard/icon_social_button_10_light.png",
+      "file": "assets/assets.squarespace.com/universal/images-v6/standard/icon_social_button_10_light.png",
+      "bytes": "1054"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/images-v6/icons/icon-external-link-18-dark.png",
+      "file": "assets/assets.squarespace.com/universal/images-v6/icons/icon-external-link-18-dark.png",
+      "bytes": "247"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/images-v6/icons/icon-squarespace-32-light.png?20170201);background-size:16px}.sqs-ss-badge[data-type=white]",
+      "file": "assets/assets.squarespace.com/universal/images-v6/icons/icon-squarespace-32-light--qbe5337dc00bf.png",
+      "bytes": "790"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/images-v6/icons/icon-squarespace-16-light.png?20170201",
+      "file": "assets/assets.squarespace.com/universal/images-v6/icons/icon-squarespace-16-light--qef977668e67e.png",
+      "bytes": "406"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/images-v6/icons/icon-squarespace-32-dark.png?20170201)}}.sqs-ss-badge-cover{opacity:0;visibility:hidden;z-index:10000;background-color:rgba(0,0,0,.6);width:100%;height:100%;transition:all",
+      "file": "assets/assets.squarespace.com/universal/images-v6/icons/icon-squarespace-32-dark--q02c3a544c3ac.png",
+      "bytes": "759"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/images-v6/icons/icon-squarespace-16-dark.png?20170201)}.sqs-ss-badge.badge-visible{opacity:1;transition:all",
+      "file": "assets/assets.squarespace.com/universal/images-v6/icons/icon-squarespace-16-dark--q8e1fe60a090a.png",
+      "bytes": "386"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/images-v6/damask/edit-aviary-light.png",
+      "file": "assets/assets.squarespace.com/universal/images-v6/damask/edit-aviary-light.png",
+      "bytes": "2968"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/fonts/squarespace-ui-font.woff",
+      "file": "assets/assets.squarespace.com/universal/fonts/squarespace-ui-font.woff",
+      "bytes": "9068"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/images-v6/damask/trash-9-light@2x.png",
+      "file": "assets/assets.squarespace.com/universal/images-v6/damask/trash-9-light@2x.png",
+      "bytes": "990"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/fonts/squarespace-ui-font.ttf",
+      "file": "assets/assets.squarespace.com/universal/fonts/squarespace-ui-font.ttf",
+      "bytes": "6576"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/fonts/social-20141119/social-icon-font.woff",
+      "file": "assets/assets.squarespace.com/universal/fonts/social-20141119/social-icon-font.woff",
+      "bytes": "32752"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/images-v6/damask/error-dark.png",
+      "file": "assets/assets.squarespace.com/universal/images-v6/damask/error-dark.png",
+      "bytes": "1262"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/images-v6/damask/error-dark@2x.png",
+      "file": "assets/assets.squarespace.com/universal/images-v6/damask/error-dark@2x.png",
+      "bytes": "1676"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/images-v6/damask/getty-32-light.png",
+      "file": "assets/assets.squarespace.com/universal/images-v6/damask/getty-32-light.png",
+      "bytes": "3374"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/images-v6/icons/icon-settings-16-light.png",
+      "file": "assets/assets.squarespace.com/universal/images-v6/icons/icon-settings-16-light.png",
+      "bytes": "3058"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/images-v6/damask/shopping-cart-32-light.png",
+      "file": "assets/assets.squarespace.com/universal/images-v6/damask/shopping-cart-32-light.png",
+      "bytes": "3216"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/images-v6/damask/play-button.png",
+      "file": "assets/assets.squarespace.com/universal/images-v6/damask/play-button.png",
+      "bytes": "1219"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/images-v6/damask/play-button@2x.png",
+      "file": "assets/assets.squarespace.com/universal/images-v6/damask/play-button@2x.png",
+      "bytes": "2909"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/images-v6/damask/getty-16-light.png",
+      "file": "assets/assets.squarespace.com/universal/images-v6/damask/getty-16-light.png",
+      "bytes": "3072"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/images-v6/icons/icon-video-24-light-solid.png",
+      "file": "assets/assets.squarespace.com/universal/images-v6/icons/icon-video-24-light-solid.png",
+      "bytes": "365"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/fonts/social-20141119/social-icon-font.ttf",
+      "file": "assets/assets.squarespace.com/universal/fonts/social-20141119/social-icon-font.ttf",
+      "bytes": "32676"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/images-v6/damask/trash-9-red@2x.png",
+      "file": "assets/assets.squarespace.com/universal/images-v6/damask/trash-9-red@2x.png",
+      "bytes": "1048"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/fonts/social-20141119/social-icon-font.eot",
+      "file": "assets/assets.squarespace.com/universal/fonts/social-20141119/social-icon-font.eot",
+      "bytes": "32876"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/images-v6/damask/shopping-cart-16-light.png",
+      "file": "assets/assets.squarespace.com/universal/images-v6/damask/shopping-cart-16-light.png",
+      "bytes": "3010"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/fonts/social-20141119/social-icon-font.svg",
+      "file": "assets/assets.squarespace.com/universal/fonts/social-20141119/social-icon-font.svg",
+      "bytes": "64791"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/images-v6/damask/edit-info-light.png",
+      "file": "assets/assets.squarespace.com/universal/images-v6/damask/edit-info-light.png",
+      "bytes": "3051"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/images-v6/damask/trash-9-red.png",
+      "file": "assets/assets.squarespace.com/universal/images-v6/damask/trash-9-red.png",
+      "bytes": "1057"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/images-v6/damask/edit-info-light@2x.png",
+      "file": "assets/assets.squarespace.com/universal/images-v6/damask/edit-info-light@2x.png",
+      "bytes": "3420"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/images-v6/damask/edit-aviary-light@2x.png",
+      "file": "assets/assets.squarespace.com/universal/images-v6/damask/edit-aviary-light@2x.png",
+      "bytes": "3097"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/images-v6/damask/trash-9-light.png",
+      "file": "assets/assets.squarespace.com/universal/images-v6/damask/trash-9-light.png",
+      "bytes": "1042"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/fonts/squarespace-ui-font.eot",
+      "file": "assets/assets.squarespace.com/universal/fonts/squarespace-ui-font.eot",
+      "bytes": "6788"
+    }
+  ],
+  "errors": [
+    {
+      "url": "https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/scripts-compressed/",
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'akamai-assets.squarespace.com'. (_ssl.c:1081)>"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/fonts/squarespace-ui-font.ttf)format(",
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'akamai-assets.squarespace.com'. (_ssl.c:1081)>"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/fonts/squarespace-ui-font.eot);src:url(//assets.squarespace.com/universal/fonts/squarespace-ui-font.eot",
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'akamai-assets.squarespace.com'. (_ssl.c:1081)>"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/fonts/squarespace-ui-font.woff)format(",
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'akamai-assets.squarespace.com'. (_ssl.c:1081)>"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/scripts-compressed/avatar-dark@2x-458da819d97035de.png);background-size:44px}}.SpxJXjpO8gvdolJW{cursor:pointer;opacity:.76;background:url(data:image/png;base64,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",
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'akamai-assets.squarespace.com'. (_ssl.c:1081)>"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/scripts-compressed/add-dark@2x-2e7941c0c4380ec0.png);background-size:16px}}.UquDm_DN6fwZGUaj{cursor:pointer;opacity:.76;background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyNpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNS1jMDIxIDc5LjE1NDkxMSwgMjAxMy8xMC8yOS0xMTo0NzoxNiAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIChNYWNpbnRvc2gpIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOjlDQzJFMDc5RjU5QjExRTNBNjhERERGNTcxRERFQURGIiB4bXBNTTpEb2N1bWVudElEPSJ4bXAuZGlkOjlDQzJFMDdBRjU5QjExRTNBNjhERERGNTcxRERFQURGIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6OUNDMkUwNzdGNTlCMTFFM0E2OEREREY1NzFEREVBREYiIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6OUNDMkUwNzhGNTlCMTFFM0E2OEREREY1NzFEREVBREYiLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz6QMRarAAAAgUlEQVR42mL8//8/AyWACcZgZGTkAWJRQhpAakBq4QJQF4AEDgPxFSAWBYlhwyA5qBqQWh6wGJrEf1yG4FJDUAFBOUK2EHIdAxFOxe81AoH1H59mEGZioBRQ1QsUBSJF0UhxQqIkKTPCciM0g3AC+a8JZSYg9R2o7guYT2l2BggwAEdxMt5BWLJMAAAAAElFTkSuQmCC",
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'akamai-assets.squarespace.com'. (_ssl.c:1081)>"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/images-v6/damask/clear-dark@2x.png);background-size:16px",
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'akamai-assets.squarespace.com'. (_ssl.c:1081)>"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/images-v6/icons/icon-stumbleupon-16-light.png)}.social-adder-wrapper",
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'akamai-assets.squarespace.com'. (_ssl.c:1081)>"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/images-v6/icons/icon-googleplay-16-light.png)}.social-adder-wrapper",
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'akamai-assets.squarespace.com'. (_ssl.c:1081)>"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/images-v6/icons/icon-google-16-light.png)}.social-adder-wrapper",
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'akamai-assets.squarespace.com'. (_ssl.c:1081)>"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/images-v6/icons/icon-twitter-16-light.png)}.social-adder-wrapper",
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'akamai-assets.squarespace.com'. (_ssl.c:1081)>"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/images-v6/icons/icon-facebook-16-light.png)}.social-adder-wrapper",
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'akamai-assets.squarespace.com'. (_ssl.c:1081)>"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/scripts-compressed/add-dark@2x-2e7941c0c4380ec0.png);background-size:16px}}.dD3WfC1OL0AEF1m1{cursor:pointer;opacity:.76;background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyNpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNS1jMDIxIDc5LjE1NDkxMSwgMjAxMy8xMC8yOS0xMTo0NzoxNiAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIChNYWNpbnRvc2gpIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOjlDQzJFMDc5RjU5QjExRTNBNjhERERGNTcxRERFQURGIiB4bXBNTTpEb2N1bWVudElEPSJ4bXAuZGlkOjlDQzJFMDdBRjU5QjExRTNBNjhERERGNTcxRERFQURGIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6OUNDMkUwNzdGNTlCMTFFM0E2OEREREY1NzFEREVBREYiIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6OUNDMkUwNzhGNTlCMTFFM0E2OEREREY1NzFEREVBREYiLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz6QMRarAAAAgUlEQVR42mL8//8/AyWACcZgZGTkAWJRQhpAakBq4QJQF4AEDgPxFSAWBYlhwyA5qBqQWh6wGJrEf1yG4FJDUAFBOUK2EHIdAxFOxe81AoH1H59mEGZioBRQ1QsUBSJF0UhxQqIkKTPCciM0g3AC+a8JZSYg9R2o7guYT2l2BggwAEdxMt5BWLJMAAAAAElFTkSuQmCC",
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'akamai-assets.squarespace.com'. (_ssl.c:1081)>"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/images-v6/icons/icon-foursquare-16-light.png)}.social-adder-wrapper",
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'akamai-assets.squarespace.com'. (_ssl.c:1081)>"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/images-v6/icons/icon-reddit-16-light.png)}.social-adder-wrapper",
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'akamai-assets.squarespace.com'. (_ssl.c:1081)>"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/images-v6/icons/icon-email-16-light.png)}.social-adder-wrapper",
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'akamai-assets.squarespace.com'. (_ssl.c:1081)>"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/images-v6/icons/icon-itunes-16-light.png)}.social-adder-wrapper",
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'akamai-assets.squarespace.com'. (_ssl.c:1081)>"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/images-v6/icons/icon-soundcloud-16-light.png)}.social-adder-wrapper",
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'akamai-assets.squarespace.com'. (_ssl.c:1081)>"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/scripts-compressed/avatar-dark@2x-458da819d97035de.png);background-size:44px}}.bs2CBHu_I58milDb{cursor:pointer;opacity:.76;background:url(data:image/png;base64,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",
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'akamai-assets.squarespace.com'. (_ssl.c:1081)>"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/images-v6/icons/icon-linkedin-16-light.png)}.social-adder-wrapper",
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'akamai-assets.squarespace.com'. (_ssl.c:1081)>"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/images-v6/icons/icon-tumblr-16-light.png)}.social-adder-wrapper",
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'akamai-assets.squarespace.com'. (_ssl.c:1081)>"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/images-v6/damask/add-dark@2x.png);background-size:16px}}.tag-field",
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'akamai-assets.squarespace.com'. (_ssl.c:1081)>"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/images-v6/icons/icon-spotify-16-light.png)}.social-adder-wrapper",
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'akamai-assets.squarespace.com'. (_ssl.c:1081)>"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/images-v6/icons/icon-blogger-16-light.png)}.social-adder-wrapper",
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'akamai-assets.squarespace.com'. (_ssl.c:1081)>"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/images-v6/mobile-info-bar/email.png)}.sqs-mobile-info-bar-trigger[data-type=contactPhoneNumber]",
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'akamai-assets.squarespace.com'. (_ssl.c:1081)>"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/images-v6/mobile-info-bar/map.png)}.sqs-mobile-info-bar-trigger[data-type=contactEmail]",
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'akamai-assets.squarespace.com'. (_ssl.c:1081)>"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/images-v6/mobile-info-bar/map-light.png)}.sqs-mobile-info-bar-dark",
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'akamai-assets.squarespace.com'. (_ssl.c:1081)>"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/images-v6/icons/icon-external-link-18-light.png)}.sqs-mobile-info-bar-dark",
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'akamai-assets.squarespace.com'. (_ssl.c:1081)>"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/images-v6/mobile-info-bar/call-light.png)}.sqs-mobile-info-bar-dark",
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'akamai-assets.squarespace.com'. (_ssl.c:1081)>"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/images-v6/mobile-info-bar/hours-light.png)}.sqs-mobile-info-bar-dark",
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'akamai-assets.squarespace.com'. (_ssl.c:1081)>"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/images-v6/mobile-info-bar/hours.png)}.sqs-mobile-info-bar-overlay{visibility:hidden;opacity:0;color:",
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'akamai-assets.squarespace.com'. (_ssl.c:1081)>"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/images-v6/mobile-info-bar/call.png)}.sqs-mobile-info-bar-trigger[data-type=businessHours]",
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'akamai-assets.squarespace.com'. (_ssl.c:1081)>"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/images-v6/mobile-info-bar/email-light.png)}.sqs-mobile-info-bar-dark",
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'akamai-assets.squarespace.com'. (_ssl.c:1081)>"
+    },
+    {
+      "url": "https://use.typekit.net/af/f9b025/00000000000000007735d96d/31/{format}{?primer,subset_id,fvd,v}",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://use.typekit.net/af/0995c0/00000000000000007735d954/31/{format}{?primer,subset_id,fvd,v}",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://use.typekit.net/af/1188e5/00000000000000007735d961/31/{format}{?primer,subset_id,fvd,v}",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://use.typekit.net/af/3c56e7/00000000000000007735d947/31/{format}{?primer,subset_id,fvd,v}",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://p.typekit.net/p.gif{?s,k,ht,h,f,a,js,app,e,_}",
+      "error": "HTTP Error 404: Not Found"
+    }
+  ],
+  "asset_limit_reached": false
+}
