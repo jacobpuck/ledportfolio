@@ -1,6 +1,7 @@
 const root = document.querySelector('[data-page]');
 const page = root?.dataset.page || 'home';
-const base = document.querySelector('meta[name="site-base"]')?.content || '';
+const localBase = document.querySelector('meta[name="site-base"]')?.content || '';
+const base = location.hostname.endsWith('github.io') ? '/ledportfolio' : localBase;
 const href = (path) => `${base}${path}`;
 
 const projects = [
