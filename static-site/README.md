@@ -1,9 +1,10 @@
-# Lauren Puckett Portfolio — local archive
+# Lauren Puckett Portfolio
 
-This is a static snapshot of the public Squarespace site. Serve this folder from its parent directory with:
+A dependency-free static portfolio for GitHub Pages.
 
-```sh
-python3 -m http.server 8000 --directory static-site
-```
+- `index.html` and the five route folders are intentionally small entry points.
+- `site.js` contains the page content and the only interaction: the case-study carousel.
+- `site.css` contains all styling and responsive rules.
+- `media/` contains only the images and PDFs used by the site.
 
-Then visit `http://localhost:8000/`. `crawl-report.json` records every download and any resources that could not be retrieved.
+No CMS runtime, build step, third-party script, or external font is required.
