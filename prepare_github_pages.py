@@ -43,12 +43,33 @@ def rewrite(source: Path) -> None:
         else:
             pattern = rf"(?<![A-Za-z0-9:.])/{re.escape(target)}"
         text = re.sub(pattern, relative, text)
+
+    # Squarespace's carousel cards leave their <img> elements without a src
+    # and depend on its application runtime to populate them.  That runtime
+    # is not portable to a static Pages archive, so retain the exact local
+    # asset by promoting data-src to src where needed.
+    def add_image_src(match: re.Match[str]) -> str:
+        tag = match.group(0)
+        if re.search(r"(?<![-\w])src\s*=", tag, flags=re.IGNORECASE):
+            return tag
+        data_src = re.search(r'\bdata-src\s*=\s*"([^"]+)"', tag, flags=re.IGNORECASE)
+        if not data_src:
+            return tag
+        ending = "/>" if tag.endswith("/>") else ">"
+        return tag[: -len(ending)] + f' src="{data_src.group(1)}"{ending}'
+
+    text = re.sub(
+        r'<img\b[^>]*\bdata-src\s*=\s*"[^"]+"[^>]*>',
+        add_image_src,
+        text,
+        flags=re.IGNORECASE,
+    )
     source.write_text(text, encoding="utf-8", errors="surrogateescape")
 
 
 def main() -> None:
     for path in ROOT.rglob("*"):
-        if path.is_file() and path.suffix.lower() in {".html", ".css", ".js", ".mjs"}:
+        if path.is_file() and path.suffix.lower() in {".html", ".css"}:
             rewrite(path)
 
 
