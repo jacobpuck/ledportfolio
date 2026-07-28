@@ -14,6 +14,7 @@
     set(track.style, 'scroll-snap-type', 'x mandatory');
     set(track.style, 'scroll-behavior', 'smooth');
     set(track.style, 'transform', 'none');
+    set(track.style, 'opacity', '1');
 
     const slides = Array.from(track.querySelectorAll('.user-items-list-carousel__slide'));
     slides.forEach((slide) => {
