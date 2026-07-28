@@ -81,6 +81,14 @@ def rewrite(source: Path) -> None:
         text,
         flags=re.IGNORECASE,
     )
+
+    # The original carousel controller expects a live Squarespace CMS context.
+    # Add the archive's small standalone fallback on the two pages that use it.
+    if source.name == "index.html" and source.parent.name in {"static-site", "home"}:
+        script = relative_url(source, "archive-carousel-fallback.js")
+        tag = f'<script defer src="{script}"></script>'
+        if tag not in text:
+            text = text.replace("</body>", f"{tag}\n</body>")
     source.write_text(text, encoding="utf-8", errors="surrogateescape")
 
 
