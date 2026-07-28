@@ -33,6 +33,16 @@ def rewrite(source: Path) -> None:
         text = text.replace(f'"/{target}', f'"{relative}')
         text = text.replace(f"'/{target}", f"'{relative}")
         text = text.replace(f"(/{target}", f"({relative}")
+        # ``srcset`` values contain several comma-separated URLs, so only the
+        # first is preceded by a quote.  Rewrite any remaining local-root URL
+        # too, while leaving absolute URLs such as https://… untouched.  The
+        # assets case also normalizes a prior relative path, keeping this tool
+        # safe to run repeatedly.
+        if target == "assets/":
+            pattern = r"(?<![A-Za-z0-9:])(?:\.\.)*/assets/"
+        else:
+            pattern = rf"(?<![A-Za-z0-9:.])/{re.escape(target)}"
+        text = re.sub(pattern, relative, text)
     source.write_text(text, encoding="utf-8", errors="surrogateescape")
 
 
