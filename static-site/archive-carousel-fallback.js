@@ -1,5 +1,13 @@
 /* Keep the copied Squarespace case-study carousel usable without its CMS runtime. */
 (function () {
+  function addFallbackStyles() {
+    if (document.getElementById('archive-carousel-fallback-styles')) return;
+    const style = document.createElement('style');
+    style.id = 'archive-carousel-fallback-styles';
+    style.textContent = '.user-items-list-carousel__slides { opacity: 1 !important; }';
+    document.head.appendChild(style);
+  }
+
   function set(style, name, value) {
     style.setProperty(name, value, 'important');
   }
@@ -41,6 +49,7 @@
   }
 
   window.addEventListener('load', () => {
+    addFallbackStyles();
     restoreAll();
     window.setTimeout(restoreAll, 250);
     window.setTimeout(restoreAll, 1000);
