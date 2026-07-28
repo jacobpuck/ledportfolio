@@ -20,6 +20,13 @@ LOCAL_PATHS = (
     "work/index.html",
 )
 
+# Squarespace paths that need an archive equivalent.  A Pages *project* site
+# lives below /ledportfolio/, so these cannot stay site-root URLs.
+ROUTE_ALIASES = {
+    "/": "index.html",
+    "/bv-case-study-1": "citrix-case-study/index.html",
+}
+
 
 def relative_url(source: Path, target: str) -> str:
     result = os.path.relpath(ROOT / target, start=source.parent).replace(os.sep, "/")
@@ -34,15 +41,25 @@ def rewrite(source: Path) -> None:
         text = text.replace(f"'/{target}", f"'{relative}")
         text = text.replace(f"(/{target}", f"({relative}")
         # ``srcset`` values contain several comma-separated URLs, so only the
-        # first is preceded by a quote.  Rewrite any remaining local-root URL
-        # too, while leaving absolute URLs such as https://… untouched.  The
-        # assets case also normalizes a prior relative path, keeping this tool
-        # safe to run repeatedly.
-        if target == "assets/":
-            pattern = r"(?<![A-Za-z0-9:])(?:\.\.)*/assets/"
-        else:
-            pattern = rf"(?<![A-Za-z0-9:.])/{re.escape(target)}"
+        # first is preceded by a quote. Rewrite every local reference, whether
+        # it starts at the archive root or is already a relative URL; this
+        # keeps repeated runs from accumulating extra ``..`` segments.
+        pattern = rf"(?<![A-Za-z0-9:])(?:\.\.)*/{re.escape(target)}"
         text = re.sub(pattern, relative, text)
+
+    for original, target in ROUTE_ALIASES.items():
+        relative = relative_url(source, target)
+        text = text.replace(f'href="{original}"', f'href="{relative}"')
+        # The carousel stores its destination in an HTML-escaped JSON payload
+        # as well as on the visible anchor.
+        text = text.replace(
+            f'&quot;buttonLink&quot;: &quot;{original}&quot;',
+            f'&quot;buttonLink&quot;: &quot;{relative}&quot;',
+        )
+
+    # This portfolio has no static shopping cart.  The cart control is hidden
+    # in the copied Squarespace markup; keep it from pointing to a Pages 404.
+    text = text.replace('href="/cart"', 'href="#page"')
 
     # Squarespace's carousel cards leave their <img> elements without a src
     # and depend on its application runtime to populate them.  That runtime
