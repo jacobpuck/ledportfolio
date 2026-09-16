@@ -5,10 +5,10 @@ const base = location.hostname.endsWith('github.io') ? '/ledportfolio' : localBa
 const href = (path) => `${base}${path}`;
 
 const projects = [
-  { title: 'Workflow Optimization for Staffing Firm (Beech Valley)', role: 'Beech Valley Solutions | Principal Product Designer', body: 'Transforming manual processes into an integrated, efficient digital system through in-depth workflow audits and iterative design.', image: 'beech-home.png', workImage: 'bv-applicants.png', link: '/bv-case-study/' },
   { title: 'Scalable UX for Enterprise SaaS (Citrix)', role: 'Citrix | UX Design Lead / Manager', body: 'Designing with a large-scale research program to improve usability for cloud product users across varied environments.', image: 'citrix-home.png', workImage: 'citrix-dashboard.png', link: '/citrix-case-study/' },
-  { title: 'Rapid Iteration with Customer Insights (Pendo)', body: 'Using interviews and usability studies to overhaul guide editing, balancing power for technical users with simplicity for others.', image: 'pendo-home.png', link: '/media/Pendo-CaseStudy.pdf' },
   { title: 'Research-Driven Design Systems (Rackspace)', body: 'From 60-foot mental model diagrams to a sustainable UI library adopted across the company.', image: 'rackspace-home.png', link: '/media/Rackspace-CaseStudy.pdf' }
+  { title: 'Workflow Optimization for Staffing Firm (Beech Valley)', role: 'Beech Valley Solutions | Principal Product Designer', body: 'Transforming manual processes into an integrated, efficient digital system through in-depth workflow audits and iterative design.', image: 'beech-home.png', workImage: 'bv-applicants.png', link: '/bv-case-study/' },
+  { title: 'Rapid Iteration with Customer Insights (Pendo)', body: 'Using interviews and usability studies to overhaul guide editing, balancing power for technical users with simplicity for others.', image: 'pendo-home.png', link: '/media/Pendo-CaseStudy.pdf' },
 ];
 
 const caseStudies = {
