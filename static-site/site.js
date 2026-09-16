@@ -12,6 +12,19 @@ const projects = [
 ];
 
 const caseStudies = {
+   citrix: {
+    title: 'Scalable UX for Enterprise SaaS',
+    role: 'Citrix | UX Design Lead / Manager | Jul 2017 – Aug 2019',
+    intro: 'Led a design team in overhauling Citrix’s flagship cloud product, working alongside a dedicated UX research team to conduct statistically significant usability studies. Balanced enterprise complexity with intuitive workflows, ensuring both technical and non-technical users could navigate and succeed.',
+    sections: [
+      ['1. Context & Challenge', ['Citrix provides enterprise-level cloud services to a global customer base with varied needs and technical skill levels. Over time, the flagship cloud product became fragmented — with inconsistent patterns, buried functionality, and workflows that were efficient for some users but confusing for others.', 'The challenge: redesign the experience to improve usability and consistency without disrupting customers managing critical, ongoing workloads.'], 'citrix-storefront.jpg'],
+      ['2. My Role', ['As UX Design Lead & Design Manager, I was responsible for:'], null, ['Setting the design vision for the cloud product overhaul', 'Collaborating with the UX research team to design and interpret large-scale studies', 'Managing and mentoring a team of designers', 'Partnering with Product Management and Engineering to align priorities and phased delivery']],
+      ['3. Research & Discovery', ['Methods used: statistically significant usability studies, task-success and time-on-task analysis, heuristic evaluations, and competitive benchmarking.'], 'citrix-feedback.png'],
+      ['4. Design & Iteration', ['Integrated legacy systems with a newly acquired startup’s micro-app functionality, introduced progressive disclosure, and established core navigation and interaction patterns to unify workflows across cloud products.'], 'citrix-architecture.png'],
+      ['5. Outcomes & Impact', ['Improved task success rates in follow-up usability studies; the unified platform reduced context switching and frustration, while design-system adoption improved consistency and reduced rework.'], 'citrix-dashboard.png'],
+      ['6. Reflection & Relevance', ['This work reinforced the value of combining rigorous research with careful iteration in complex enterprise environments. Unifying workflows for diverse users while ensuring stability during change is directly relevant to multi-role healthcare teams.'], 'citrix-flow.png']
+    ]
+  },
   beech: {
     title: 'Workflow Optimization for Staffing Firm',
     role: 'Beech Valley Solutions | Lead Product Designer | Apr 2020 – Jun 2023',
@@ -23,19 +36,6 @@ const caseStudies = {
       ['4. Design & Iteration', ['Created low-fidelity workflow diagrams to visualize the redesigned process. Designed searchable candidate profiles with real-time availability updates, integrated task dashboards that reduced context switching, and automation for repetitive notifications and follow-ups.'], 'bv-flow.png'],
       ['5. Outcomes & Impact', ['Reduced candidate profile update time by about 50%, improved data accuracy, and freed recruiters to spend more time on relationship building. The work also created a foundation for future feature expansion without re-architecting the core system.'], 'bv-pipeline.png'],
       ['6. Reflection & Relevance', ['This project reinforced how targeted process improvements — through direct observation and iterative design — can significantly improve efficiency in complex workflows. The skills mirror the approach I’d bring to healthcare environments: understanding the human side of operations, designing around real-world constraints, and making daily work smoother and more effective.'], 'bv-client-flow.png']
-    ]
-  },
-  citrix: {
-    title: 'Scalable UX for Enterprise SaaS',
-    role: 'Citrix | UX Design Lead / Manager | Jul 2017 – Aug 2019',
-    intro: 'Led a design team in overhauling Citrix’s flagship cloud product, working alongside a dedicated UX research team to conduct statistically significant usability studies. Balanced enterprise complexity with intuitive workflows, ensuring both technical and non-technical users could navigate and succeed.',
-    sections: [
-      ['1. Context & Challenge', ['Citrix provides enterprise-level cloud services to a global customer base with varied needs and technical skill levels. Over time, the flagship cloud product became fragmented — with inconsistent patterns, buried functionality, and workflows that were efficient for some users but confusing for others.', 'The challenge: redesign the experience to improve usability and consistency without disrupting customers managing critical, ongoing workloads.'], 'citrix-storefront.jpg'],
-      ['2. My Role', ['As UX Design Lead & Design Manager, I was responsible for:'], null, ['Setting the design vision for the cloud product overhaul', 'Collaborating with the UX research team to design and interpret large-scale studies', 'Managing and mentoring a team of designers', 'Partnering with Product Management and Engineering to align priorities and phased delivery']],
-      ['3. Research & Discovery', ['Methods used: statistically significant usability studies, task-success and time-on-task analysis, heuristic evaluations, and competitive benchmarking.'], 'citrix-feedback.png'],
-      ['4. Design & Iteration', ['Integrated legacy systems with a newly acquired startup’s micro-app functionality, introduced progressive disclosure, and established core navigation and interaction patterns to unify workflows across cloud products.'], 'citrix-architecture.png'],
-      ['5. Outcomes & Impact', ['Improved task success rates in follow-up usability studies; the unified platform reduced context switching and frustration, while design-system adoption improved consistency and reduced rework.'], 'citrix-dashboard.png'],
-      ['6. Reflection & Relevance', ['This work reinforced the value of combining rigorous research with careful iteration in complex enterprise environments. Unifying workflows for diverse users while ensuring stability during change is directly relevant to multi-role healthcare teams.'], 'citrix-flow.png']
     ]
   }
 };
